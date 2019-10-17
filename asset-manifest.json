@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/monsters_rolodex/static/css/main.33fff2f0.chunk.css",
+    "main.js": "/monsters_rolodex/static/js/main.3cacdb2c.chunk.js",
+    "main.js.map": "/monsters_rolodex/static/js/main.3cacdb2c.chunk.js.map",
+    "runtime-main.js": "/monsters_rolodex/static/js/runtime-main.67d2ce3c.js",
+    "runtime-main.js.map": "/monsters_rolodex/static/js/runtime-main.67d2ce3c.js.map",
+    "static/js/2.24f13ce1.chunk.js": "/monsters_rolodex/static/js/2.24f13ce1.chunk.js",
+    "static/js/2.24f13ce1.chunk.js.map": "/monsters_rolodex/static/js/2.24f13ce1.chunk.js.map",
+    "index.html": "/monsters_rolodex/index.html",
+    "precache-manifest.6098f48ae43f6cb280562dad26c50c0c.js": "/monsters_rolodex/precache-manifest.6098f48ae43f6cb280562dad26c50c0c.js",
+    "service-worker.js": "/monsters_rolodex/service-worker.js",
+    "static/css/main.33fff2f0.chunk.css.map": "/monsters_rolodex/static/css/main.33fff2f0.chunk.css.map",
+    "static/media/index.css": "/monsters_rolodex/static/media/shadow_isles.bedc2a4d.jpeg"
+  }
+}
