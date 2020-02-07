@@ -1,0 +1,7 @@
+.scrollbox {
+    overflow-y: scroll;
+    border: 3px solid rgb(70, 97, 96);
+    border-radius: 20px;
+    height: 500px;
+    padding-top: 20px;
+}
